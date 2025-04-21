@@ -1,0 +1,32 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21 abr 2025, 11:02:36
+    Author     : carlo
+*/
+
+table tr th{
+    background-color: #4F5EFF;
+    padding-left: 3pc;
+    padding-right: 3pc;
+    text-align: center;
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+    font-size: 15pt;
+}
+
+table tr td{
+    background-color:#E8E8E8;
+    padding-left: 3pc;
+    padding-right: 3pc;
+    text-align: center;
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+    font-size: 10pt;
+}
+
+
+#btnOpenC{
+    background: none;
+    border: none;
+}

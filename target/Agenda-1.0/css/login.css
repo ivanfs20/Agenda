@@ -1,0 +1,84 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 20 abr 2025, 21:51:48
+    Author     : carlo
+*/
+
+img{
+    width: 10%;
+    height: 10%;
+}
+
+input{
+    text-align: center;
+    width: 180px;
+    height: 30px;
+    border-radius: 2pc;
+    background-color: white;
+    color: rgb(138, 138, 138);
+    border-color: white;
+    margin-bottom: 1pc;
+}
+
+button{
+    border-radius: 2pc;
+    background-color: white;
+    border-color: white;
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+    font-style: inherit;
+    margin: auto;
+    text-align: center;
+    margin-left: 1pc;
+    margin-right: 1pc;
+    font-size: 12pt;
+}
+body{
+    width: auto;
+}
+
+#divCenter{
+    background-color: #4F5EFF;
+    border-radius: 2pc;
+    width: 20pc;
+}
+
+body h1{
+    text-align: center;
+    color: white;
+    font-size: 30pt;
+}
+
+body input{
+    font-size: 10pt;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 11%;
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+    font-style:inherit;
+}
+
+#divButtons{
+    display: flex;
+    justify-content: center;
+    margin-top: 1pc;
+    margin-bottom: 1pc;
+}
+
+
+#username{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#password{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

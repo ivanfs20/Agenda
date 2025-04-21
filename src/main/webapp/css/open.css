@@ -1,0 +1,198 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21 abr 2025, 11:00:00
+    Author     : carlo
+*/
+
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 20 abr 2025, 23:36:44
+    Author     : carlo
+*/
+img{
+    width: 70%;
+    height: 10%;
+}
+
+#menu_lateral{
+    background-color: #828DFF;
+    width: 10pc;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#bloc{
+    width: auto;
+    height: 3pc;
+    background-color: #4F5EFF;
+}
+
+#information{
+    margin-top: 4pc;
+}
+
+#buttons{
+    margin-top: 4pc;
+}
+
+.button{
+    margin-top: 2pc;
+    font-size: 15pt;
+    border-radius: 2pc;
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+    border-color: white;
+    color: black;
+    background-color: white;
+    width: auto;
+
+}
+
+
+
+button{
+    width: 3pc;
+}
+
+.buttonImg{
+    border: none;
+    background-color: #4F5EFF;
+}
+
+#img{
+    width: 100%;
+    height: 100%;
+}
+
+input{
+    margin-top: 2pc;
+    width: 20pc;
+    border-radius: 2pc;
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+    font-size: 12pt;
+    color: #938E8E;
+}
+
+h2{
+    font-size: 29pt;
+    text-align: center;
+}
+
+#img_div{
+    display: flex;
+    justify-content: center;
+}
+
+#div_button{
+    display: flex;
+    justify-content: center;
+}
+
+#divContent{
+    margin-left: 10pc;
+}
+
+#footer_content{
+    position: fixed;
+    bottom: 0;
+    background-color: #797474;
+    width: 86%;
+    left: 10pc;
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+body{
+    font-family: 'Fira Mono', 'Courier New', Courier, 'Lucida Console', monospace;
+}
+
+h1{
+    text-align: center;
+    color: #797474;
+}
+
+#divs_add_see{
+    display: flex;
+    justify-content: center;
+    margin-top: 2pc;
+    color: white;
+}
+
+#imgAdd{
+    width: 3pc;
+}
+
+#imgSee{
+    width: 3pc;
+}
+
+h6{
+    text-align: center;
+}
+
+#div_add{
+    width: 25%;
+    background-color: #4F5EFF;
+    margin-right: 5pc;
+    border-radius: 3pc;
+}
+
+#div_see{
+    width: 25%;
+    background-color: #4F5EFF;
+    border-radius: 3pc;
+    margin-left: 5pc;
+}
+
+.div_img{
+    display: flex;
+    justify-content: center;
+}
+
+
+#divSearch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#divImg{
+    display: flex;
+    justify-content: center;
+}
+
+#divContentOpen{
+    margin-left: 10pc;
+    display: flex;
+}
+
+.btnToDo{
+    background: none;
+    border: none;
+    border-radius: 2pc;
+    background-color: #4F5EFF;
+    height: 80%;
+    font-size: 20pt;
+    color:white;
+    width: 200%;
+}
+
+.divBtnToDo{
+    height: 10pc;
+}
+
+#divToDo h1{
+    text-align: center;
+}
+

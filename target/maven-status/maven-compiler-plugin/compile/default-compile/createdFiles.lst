@@ -1,0 +1,15 @@
+com\ivanfs\agenda\controllers\HomeServlet.class
+com\ivanfs\agenda\controllers\RegisterServlet.class
+com\ivanfs\agenda\daos\UsuarioDao.class
+com\ivanfs\agenda\controllers\DeleteServlet.class
+com\ivanfs\agenda\controllers\List_Contact.class
+com\ivanfs\agenda\controllers\SearchServlet.class
+com\ivanfs\agenda\JakartaRestConfiguration.class
+com\ivanfs\agenda\entities\Contacto.class
+com\ivanfs\agenda\daos\ContactoDao.class
+com\ivanfs\agenda\controllers\LoginServlet.class
+com\ivanfs\agenda\controllers\AddServlet.class
+com\ivanfs\agenda\resources\JakartaEE11Resource.class
+com\ivanfs\agenda\controllers\ConfigurationServlet.class
+com\ivanfs\agenda\controllers\ContactoServlet.class
+com\ivanfs\agenda\entities\Usuario.class

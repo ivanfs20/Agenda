@@ -36,7 +36,7 @@
                 <div id="img_div">
                     <img src="./img/login_user.png" alt="">
                 </div>
-                <h2 style="font-size: 20pt; color:white">USERNAME</h2>
+                <h2 style="font-size: 20pt; color:white"><%=usuario.getPassword()%></h2>
             </div>
 
             <form id="buttons" action="Home" method="get">
